@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/hfoley2013/deepseekchat-vscode-extension"
+    },
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
