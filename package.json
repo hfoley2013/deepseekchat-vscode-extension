@@ -13,7 +13,9 @@
       "type": "git",
       "url": "https://github.com/hfoley2013/deepseekchat-vscode-extension"
     },
-  "activationEvents": [],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
